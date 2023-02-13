@@ -1,0 +1,20 @@
+/*
+Theme Name: Dev WP
+Theme URI: https://devwp.com
+Author: Abdul Wahab Anjum
+Author URI: https://abwahab.com
+Description: Dev WordPress theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: my-theme
+*/
+
+/* Add your CSS styles here */
+
+p{
+    color:red;
+}
+footer p{
+    color:#333;
+}
